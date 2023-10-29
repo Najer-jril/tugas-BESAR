@@ -1,0 +1,19 @@
+{
+    "users" : [
+        {
+            "username": "admin",
+            "password": "admin",
+            "role": "admin"
+        },
+        {
+            "username": "NIM",
+            "password": "NIM",
+            "role": "user"
+        },
+        {
+            "username": "11231059",
+            "password": "11231059",
+            "role":"user"
+        }
+    ]
+}

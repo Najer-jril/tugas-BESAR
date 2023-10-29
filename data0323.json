@@ -1,0 +1,556 @@
+[
+  {
+    "nama": "Abdillah Rizqi",
+    "NIM": "03231001",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Abdul Azis Zakariyya Johandi",
+    "NIM": "03231002",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Abdul Malik Musyawir",
+    "NIM": "03231003",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Adhe Tegar Sarnadi",
+    "NIM": "03231004",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Adiya Ilham",
+    "NIM": "03231005",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Agus Haryanto",
+    "NIM": "03231006",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Ahmad Dzaky Dakhilullah",
+    "NIM": "03231007",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Ahmad Yassin",
+    "NIM": "03231008",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Alev Putra Alfandy",
+    "NIM": "03231009",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Alwi Jayansyah",
+    "NIM": "03231010",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Andika Jaya Putra",
+    "NIM": "03231011",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Antonius Franciscus Sinambela",
+    "NIM": "03231012",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Arif Budi Laksono",
+    "NIM": "03231013",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Arini Anggraini Aris",
+    "NIM": "03231014",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Arliansyah",
+    "NIM": "03231015",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Armando Destu Perkasa",
+    "NIM": "03231016",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Arta Aprilian Dwi Rama Sanjaya",
+    "NIM": "03231017",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Arta Dharma Kusuma",
+    "NIM": "03231018",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Azriel Devandra Baskoro Putra",
+    "NIM": "03231019",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  { "nama": "Azwan", "NIM": "03231020", "prodi": "Teknik Mesin", "skor": 100 },
+  {
+    "nama": "Bhadar Fajar Riyanto",
+    "NIM": "03231021",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Bintang Samudra",
+    "NIM": "03231022",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Catur Putra Romadhan",
+    "NIM": "03231023",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Charlie Natanael Sitorus",
+    "NIM": "03231024",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Daiva Agatha Rahagi Nugroho",
+    "NIM": "03231025",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "David Antonio Sihite",
+    "NIM": "03231026",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Dikha Fanani",
+    "NIM": "03231027",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Dimas Bayu Pratama",
+    "NIM": "03231028",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Dwi Irfan Jatmiko",
+    "NIM": "03231029",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Eangie Livia Cleantha",
+    "NIM": "03231030",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Erwin Dharmawan",
+    "NIM": "03231031",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Ferry Ramadhan",
+    "NIM": "03231032",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Firdhan Pratama",
+    "NIM": "03231033",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Firmansyah",
+    "NIM": "03231034",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Firson Adam Nicolas",
+    "NIM": "03231035",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Fitrah Ramadhan",
+    "NIM": "03231036",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Gabriel Marcelino Mende",
+    "NIM": "03231037",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Garcia Stevendia Saragih",
+    "NIM": "03231038",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Habibi Wahba Zuhaili",
+    "NIM": "03231039",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  { "nama": "Hadi", "NIM": "03231040", "prodi": "Teknik Mesin", "skor": 100 },
+  {
+    "nama": "Haidar Irfan Kamaluddin",
+    "NIM": "03231041",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Ibram Maulana",
+    "NIM": "03231042",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Kelvin Febriano Wiranata Suisman",
+    "NIM": "03231043",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Kurniawan",
+    "NIM": "03231044",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Marcelianus",
+    "NIM": "03231045",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Marcelo Antonio Eglesias Dala",
+    "NIM": "03231046",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Masyitha Dwi Putria Saharuddin",
+    "NIM": "03231047",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhamad Ali Tri Saputra",
+    "NIM": "03231048",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhamad Sigit Hariadi",
+    "NIM": "03231049",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Afrizal Febrilianto",
+    "NIM": "03231050",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Ahnaf Taufik Baihaqi",
+    "NIM": "03231051",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Arif Choirul Rijal",
+    "NIM": "03231052",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Avanza Abdul Rahim",
+    "NIM": "03231053",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Azmi",
+    "NIM": "03231054",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Dandi",
+    "NIM": "03231055",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Eridho Triwahyuda",
+    "NIM": "03231056",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Evan Surya Saputra",
+    "NIM": "03231057",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Hibatullah Mursyid Najib",
+    "NIM": "03231058",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Ikhsan Bachtiar",
+    "NIM": "03231059",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Irza Al Baihaqi",
+    "NIM": "03231060",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Luhtfi Hidayat",
+    "NIM": "03231061",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Naufal Nabil Prasetyo",
+    "NIM": "03231062",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rafli",
+    "NIM": "03231063",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Raihan Irhan",
+    "NIM": "03231064",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rayes Attila",
+    "NIM": "03231065",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Satria Junian",
+    "NIM": "03231066",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Taufik Rachman",
+    "NIM": "03231067",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Wafy",
+    "NIM": "03231068",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Zulfadli",
+    "NIM": "03231069",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Naufal Abiyyu Farras",
+    "NIM": "03231070",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Nerion Kogoya",
+    "NIM": "03231071",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Nicolaus Yanri Tonanda",
+    "NIM": "03231072",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Putu Zaki Ananda Dharmaputra",
+    "NIM": "03231073",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Rahmat Budiaji",
+    "NIM": "03231074",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Raihan Dimas Prasetyo",
+    "NIM": "03231075",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "dwdwRandi Eka Permanaa",
+    "NIM": "03231076",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Rayhan Rashiq Ramadhan",
+    "NIM": "03231077",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Reginald Felix",
+    "NIM": "03231078",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Reyhan Putra Perdana",
+    "NIM": "03231079",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Rino Pandu Aryo Wigati",
+    "NIM": "03231080",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Rizki Febiansyah",
+    "NIM": "03231081",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Rozi Asqolani",
+    "NIM": "03231082",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Seftian Tomandja",
+    "NIM": "03231083",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Setyo Budhiyono",
+    "NIM": "03231084",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Slamat Zainuddin",
+    "NIM": "03231085",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Sulthan Ahmad Fauzi",
+    "NIM": "03231086",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Syaskiah Salsabila",
+    "NIM": "03231087",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Tri Ahmad Jumain",
+    "NIM": "03231088",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Valentino Bintang Pranata",
+    "NIM": "03231089",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Vemas Fajri Gigih Setyawan",
+    "NIM": "03231090",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Vierillo Al Kahfi",
+    "NIM": "03231091",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Windi Sugi Karni",
+    "NIM": "03231092",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Yopansyah Nabila",
+    "NIM": "03231093",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  },
+  {
+    "nama": "Yopie Visto Maynaldi Nadapdap",
+    "NIM": "03231094",
+    "prodi": "Teknik Mesin",
+    "skor": 100
+  }
+]

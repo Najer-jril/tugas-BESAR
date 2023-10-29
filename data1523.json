@@ -1,0 +1,332 @@
+[
+  {
+    "nama": "Achmad Syaikhu Dhukhari",
+    "NIM": "15231001",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Alya Rodhotul Ilmiati",
+    "NIM": "15231002",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Andi Alif Muhammad Farsya",
+    "NIM": "15231003",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Andi Faza Fadia",
+    "NIM": "15231004",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Anisah Mu'allifah Yafa",
+    "NIM": "15231005",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Annajwa Aulia Putri",
+    "NIM": "15231006",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Ardin Sentosa Gulo",
+    "NIM": "15231007",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Arif Rahman",
+    "NIM": "15231008",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Asma Nurhalisa",
+    "NIM": "15231009",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Azzah Yumna Dzakiyyah",
+    "NIM": "15231010",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Bagas Aditya Rachmat",
+    "NIM": "15231011",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Bagas Putra Wijaksono",
+    "NIM": "15231012",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Bima Kartanegara",
+    "NIM": "15231013",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Bobby Tampubolon",
+    "NIM": "15231014",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Christov Shevchenko L. Toreh",
+    "NIM": "15231015",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Denny Permana Putra",
+    "NIM": "15231016",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Diska Divia Putri",
+    "NIM": "15231017",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Eishah Sausan Adzro",
+    "NIM": "15231018",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Elycha Rahma Savitri",
+    "NIM": "15231019",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Fariz Atthar",
+    "NIM": "15231020",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Fauzan Adinata",
+    "NIM": "15231021",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Fauziah Azahra",
+    "NIM": "15231022",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "George Malviano Marcello",
+    "NIM": "15231023",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Gisca Naomi Sitorus",
+    "NIM": "15231024",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Imron Risalfar Atmuzaini",
+    "NIM": "15231025",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Laurencia Veronica Manullang",
+    "NIM": "15231026",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "M.Rega Prasetia",
+    "NIM": "15231027",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Melda Rizki Amaliah",
+    "NIM": "15231028",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Abdhi Negara",
+    "NIM": "15231029",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Aldi Kurniawan",
+    "NIM": "15231030",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Alfin Al Hakim",
+    "NIM": "15231031",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Azharuzzaman Zamzami",
+    "NIM": "15231032",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad David Becham",
+    "NIM": "15231033",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Irfan Santoro",
+    "NIM": "15231034",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Najmi Zahran Putra Abdans",
+    "NIM": "15231035",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Sarma Hidayat",
+    "NIM": "15231036",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Virgie Zchakhary",
+    "NIM": "15231037",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Wildan Akbar",
+    "NIM": "15231038",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Yasir",
+    "NIM": "15231039",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Yassar Febryan Pataroi",
+    "NIM": "15231040",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Nabillah Aulia Ansyori",
+    "NIM": "15231041",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Naura Arum Rahmadani",
+    "NIM": "15231042",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Nayla Salma",
+    "NIM": "15231043",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Noor Fadhillah Laisa",
+    "NIM": "15231044",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Prima Febriana",
+    "NIM": "15231045",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Raisya Ramadhani",
+    "NIM": "15231046",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Rennata Amanda Zaahiyah",
+    "NIM": "15231047",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Reymon Batu Tandi",
+    "NIM": "15231048",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Roby Manda Pasalongan",
+    "NIM": "15231049",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Sania Tri Utari",
+    "NIM": "15231050",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Shavira Anastesia",
+    "NIM": "15231051",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Syifa Salsabila Eka Nor Yuwono",
+    "NIM": "15231052",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Tegar Danuarta",
+    "NIM": "15231053",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Tirza Paramitha",
+    "NIM": "15231054",
+    "prodi": "Arsitektur",
+    "skor": 100
+  },
+  {
+    "nama": "Vani Latifatur Rohmah",
+    "NIM": "15231055",
+    "prodi": "Arsitektur",
+    "skor": 100
+  }
+]

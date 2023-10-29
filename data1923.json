@@ -1,0 +1,434 @@
+[
+  {
+    "nama": "Abigail Fahriyah Calista",
+    "NIM": "19231001",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Aida Muslihah",
+    "NIM": "19231002",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Ainy Nabilla Sari",
+    "NIM": "19231003",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Alif Zhalifunnas",
+    "NIM": "19231004",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Aliya Sarnadi Azka",
+    "NIM": "19231005",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Alya Aulia Nissa",
+    "NIM": "19231006",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Amadea Jovita Ersharon",
+    "NIM": "19231007",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Amrulloh",
+    "NIM": "19231008",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Andinda Bebby Permata Putri",
+    "NIM": "19231009",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Anugrah Cahya Syafitri",
+    "NIM": "19231010",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Artika",
+    "NIM": "19231011",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Asty Alycia Firstly",
+    "NIM": "19231012",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Asysyifa Arinilhaq Modjo",
+    "NIM": "19231013",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Aulia Putri Novia",
+    "NIM": "19231014",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Awaluddin",
+    "NIM": "19231015",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Azriel Restu Ramadhan",
+    "NIM": "19231016",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Bayu Bahtiar",
+    "NIM": "19231017",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Carol Jeremiah Gultom",
+    "NIM": "19231018",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Clausi Aulya Putri Chinanti",
+    "NIM": "19231019",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Dian Nanda Ulfa",
+    "NIM": "19231020",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Dinda Tiesa Shalsabila",
+    "NIM": "19231021",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Dwi Heriyanti Banjarnahor",
+    "NIM": "19231022",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Dwi Rangga Saputra",
+    "NIM": "19231023",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Farra Aurel Azzahra",
+    "NIM": "19231024",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Grey Simon Payungallo",
+    "NIM": "19231025",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Guntur Dwi Atmaja",
+    "NIM": "19231026",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Gusti Revalina Parameswari",
+    "NIM": "19231027",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Hana Sabillah",
+    "NIM": "19231028",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Hatin Fitriyah",
+    "NIM": "19231029",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Ignasia Leluni Tetala",
+    "NIM": "19231030",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Jaya Ananda Siahaan",
+    "NIM": "19231031",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Jihan Syafitri",
+    "NIM": "19231032",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Juvita Angreani",
+    "NIM": "19231033",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Khairiah Zam Zam",
+    "NIM": "19231034",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Khaisya Arnizahra Oktavia Romadani",
+    "NIM": "19231035",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Maulidya Salsabila",
+    "NIM": "19231036",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Meindigo Glenn Gelen",
+    "NIM": "19231037",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Fadly Ardyanti",
+    "NIM": "19231038",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Kholid Saifullah",
+    "NIM": "19231039",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Nur Alfajri",
+    "NIM": "19231040",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nadilla Septiana",
+    "NIM": "19231041",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nahdya Nur Islamiyah Dwi Putri",
+    "NIM": "19231042",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nasywa Nur Giga Wiadji",
+    "NIM": "19231043",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Natasya Al-Mira Gustika",
+    "NIM": "19231044",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nur Ali Firmansyah",
+    "NIM": "19231045",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nur Aziza",
+    "NIM": "19231046",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Nur Febrinalia",
+    "NIM": "19231047",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Putri Yasa Rahmani",
+    "NIM": "19231048",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Qanitah Sausan Alya Mujiono",
+    "NIM": "19231049",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Rachmat Ridho",
+    "NIM": "19231050",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Rahmad Taupik Hidayat Patku Rohim",
+    "NIM": "19231051",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Revi Mariska Kuhadi",
+    "NIM": "19231052",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Ribka Nainggolan",
+    "NIM": "19231053",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Rifki Pramadhani",
+    "NIM": "19231054",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Rikki A Silitonga",
+    "NIM": "19231055",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Risma Rahmawati",
+    "NIM": "19231056",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Rizqi Alreza Cahaya Firdaus",
+    "NIM": "19231057",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Salsabila Putri Ramadhan",
+    "NIM": "19231058",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Sapna Adinda Putri",
+    "NIM": "19231059",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Serli Aulia Fadillah",
+    "NIM": "19231060",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Siti Aisyah",
+    "NIM": "19231061",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Syarifah Aulia Rahmah Imani",
+    "NIM": "19231062",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Tasya Azzahrah",
+    "NIM": "19231063",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Tatia Asnur Syafitri",
+    "NIM": "19231064",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Tharwa Khalid Diputra",
+    "NIM": "19231065",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Tiara Maudy Gusman",
+    "NIM": "19231066",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Tirza Revina Dwitama",
+    "NIM": "19231067",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Verina Saskia Difira",
+    "NIM": "19231068",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Virna Rihhadatul 'Aisya",
+    "NIM": "19231069",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Wina Mutiara Pane",
+    "NIM": "19231070",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Yoenita Maharani Kartorahardjo",
+    "NIM": "19231071",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  },
+  {
+    "nama": "Yuwanita Meilani",
+    "NIM": "19231072",
+    "prodi": "Teknologi Pangan",
+    "skor": 100
+  }
+]

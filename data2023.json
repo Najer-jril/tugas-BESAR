@@ -1,0 +1,494 @@
+[
+  {
+    "nama": "Achmad Rizal Destriyan Hidayat",
+    "NIM": "20231001",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Adellilah Fauziah",
+    "NIM": "20231002",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Adhe Novita Ramadhani",
+    "NIM": "20231003",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Adrian Sachio Fauzi",
+    "NIM": "20231004",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ahcmad Alvian Yahya",
+    "NIM": "20231005",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Allicia Rasty",
+    "NIM": "20231006",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Amelia Resiana",
+    "NIM": "20231007",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Amira Hamida Azzahra",
+    "NIM": "20231008",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Andara Bulan Prameswari",
+    "NIM": "20231009",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Andi Rania Absyiah Al Idrus",
+    "NIM": "20231010",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Angeliqa Talita Viola Mudeng",
+    "NIM": "20231011",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Aurillya Valenciana Maharani",
+    "NIM": "20231012",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Azizah Putri Pertiwi",
+    "NIM": "20231013",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Cevia Alya Sahira",
+    "NIM": "20231014",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Dani Fortuna Putri",
+    "NIM": "20231015",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Dani Pedrosa Suharisma",
+    "NIM": "20231016",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Desy Rachmania",
+    "NIM": "20231017",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Dewi Utari",
+    "NIM": "20231018",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Diah Wiraloka Wilujeng",
+    "NIM": "20231019",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Diaz Maylaf Azahra",
+    "NIM": "20231020",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Else Venetta Gea",
+    "NIM": "20231021",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ernike Pretty Trinanda",
+    "NIM": "20231022",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ester Chindy Claudy",
+    "NIM": "20231023",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Fadhil Pradana Sya'Bani",
+    "NIM": "20231024",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Fajwa Ghaisani Adzkiya",
+    "NIM": "20231025",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Farah Alya Rahman",
+    "NIM": "20231026",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Goei, Elisabet Chandra",
+    "NIM": "20231027",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Haura Septia Nada",
+    "NIM": "20231028",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ifa Faramitra Asqia",
+    "NIM": "20231029",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ika Dwi Sabilla",
+    "NIM": "20231030",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Isnaini Nur Rachmawati",
+    "NIM": "20231031",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Joana Salsabilla Arifin",
+    "NIM": "20231032",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Keysha Putri",
+    "NIM": "20231033",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Kimberly Lovely Soputan",
+    "NIM": "20231034",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Laode Muhammad Roman Nazilin Haqi",
+    "NIM": "20231035",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Leila Lutfia Candrawati",
+    "NIM": "20231036",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Lisa Rahmawati",
+    "NIM": "20231037",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Luis Frenklin",
+    "NIM": "20231038",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Maersella Lee",
+    "NIM": "20231039",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Meisya Aulia Putri",
+    "NIM": "20231040",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Mochamad Fadil Afandi",
+    "NIM": "20231041",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muh. Fathur Rahman Aftifah",
+    "NIM": "20231042",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Abu Yazid Chusnu Riza",
+    "NIM": "20231043",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Bayu Saputra",
+    "NIM": "20231044",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Muhfi Zerham",
+    "NIM": "20231045",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rafly Baihaqi",
+    "NIM": "20231046",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rizky Taufik",
+    "NIM": "20231047",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Syauqi Ramadhan",
+    "NIM": "20231048",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Murniasih",
+    "NIM": "20231049",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nabila Puspita Sari",
+    "NIM": "20231050",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Najwa Putri Salsabila",
+    "NIM": "20231051",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Naufa Nuradibah Pramadhani Subroto",
+    "NIM": "20231052",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nia Ocktaviani",
+    "NIM": "20231053",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Novita Pratiwi Ramadhani",
+    "NIM": "20231054",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nur Syifa Fuada",
+    "NIM": "20231055",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nurhayati",
+    "NIM": "20231056",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nurjanah Oktafia",
+    "NIM": "20231057",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nurul Hasanah",
+    "NIM": "20231058",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Odilo Satria Jati Nugroho",
+    "NIM": "20231059",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Oswyth Dave Hennata",
+    "NIM": "20231060",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Putri Titis Dewi",
+    "NIM": "20231061",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Raditya Nur Firdaus",
+    "NIM": "20231062",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Raffy Radhitya Rachmat Danny",
+    "NIM": "20231063",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Ratih Dian Malinda",
+    "NIM": "20231064",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Refiana Rahayu Wilujeng",
+    "NIM": "20231065",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Reza Ardian",
+    "NIM": "20231066",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Richi Zahi Ananda",
+    "NIM": "20231067",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Rizka Amelia Safitri",
+    "NIM": "20231068",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Salsabilla Novira Ramadhany",
+    "NIM": "20231069",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Salwa Fadiya Salsabila",
+    "NIM": "20231070",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Shasi Ellok Fairruzsyahdu",
+    "NIM": "20231071",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Sheilla Azizatuz Zahro Yisri Atmadja",
+    "NIM": "20231072",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Silvana Zalianti",
+    "NIM": "20231073",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Siti Hafizah",
+    "NIM": "20231074",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Siti Nurhaliza",
+    "NIM": "20231075",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Sortani Kristi Purba",
+    "NIM": "20231076",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Syahrul Hidayat",
+    "NIM": "20231077",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Udz'ri Izaz Wasana",
+    "NIM": "20231078",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Violincia Jelita",
+    "NIM": "20231079",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Yohan Putra Fernandi",
+    "NIM": "20231080",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Zahra Kania Syahriani",
+    "NIM": "20231081",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  },
+  {
+    "nama": "Nasywa Tri Ramadhan",
+    "NIM": "20231082",
+    "prodi": "Bisnis Digital",
+    "skor": 100
+  }
+]

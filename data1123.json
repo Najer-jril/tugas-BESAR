@@ -1,0 +1,554 @@
+[
+  {
+    "nama": "Abdullah Adiwarman Wildan",
+    "NIM": "11231001",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Abiem Akmal Fadhil",
+    "NIM": "11231002",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Aditya Ridho Nugroho",
+    "NIM": "11231003",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Adji Zahra Mahdiyyah",
+    "NIM": "11231004",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Aisyah Wilda Fauziah Amanda",
+    "NIM": "11231005",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Akmal Falah Maulana",
+    "NIM": "11231006",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Alief Rachmattul Islam",
+    "NIM": "11231007",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Amisha Nabila Wiguna",
+    "NIM": "11231008",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Andhika Ramadhan",
+    "NIM": "11231009",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Andi Zalfa Zahirah Najib",
+    "NIM": "11231010",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Anitya C. R. Sinaga",
+    "NIM": "11231011",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Anugrah Alian Putratama",
+    "NIM": "11231012",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Arya Zaky Pradipta",
+    "NIM": "11231013",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Bagas Yoga Pratama Pramudika",
+    "NIM": "11231014",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Bagus Nur Andiansyah",
+    "NIM": "11231015",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Bayu Raihan Paratama",
+    "NIM": "11231016",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Brikal Adhitama Santoso",
+    "NIM": "11231017",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Christ Williams Billy",
+    "NIM": "11231018",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Daniel Belawa Koten",
+    "NIM": "11231019",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Dicha Wijaya Kusuma",
+    "NIM": "11231020",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Dimas Ramadhani",
+    "NIM": "11231021",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Eka Purnamasari Arfat",
+    "NIM": "11231022",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Fadhil Awalia Kusuma",
+    "NIM": "11231023",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Fadhil Zulfikar",
+    "NIM": "11231024",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Faiz Alrazi Hidayat",
+    "NIM": "11231025",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Faqih Chairul Anam",
+    "NIM": "11231026",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Galuh Juliviana Romanita",
+    "NIM": "11231027",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Gihon Endrios Aruan",
+    "NIM": "11231028",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Hadri Harazit",
+    "NIM": "11231029",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Hari Yatun Nasifa",
+    "NIM": "11231030",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Imam Dzulvan Muffid",
+    "NIM": "11231031",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Jihan Imelia Audhia",
+    "NIM": "11231032",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Juan Resq Sukardi",
+    "NIM": "11231033",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Junnior Marcellino Polla",
+    "NIM": "11231034",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Kanaya Anada Lukito",
+    "NIM": "11231035",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "M. Azka Yunastio",
+    "NIM": "11231036",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Mahardika Arka",
+    "NIM": "11231037",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Maulida Rahmayanti",
+    "NIM": "11231038",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Michael Peter Valentino Situmeang",
+    "NIM": "11231039",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Miftahul Fauzi Rifai",
+    "NIM": "11231040",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Mochammad Reezqi Pratama",
+    "NIM": "11231041",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Mochammad Syachdan Pratama Sanjaya",
+    "NIM": "11231042",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Moh. Hayyi Royhussaid",
+    "NIM": "11231043",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Mohammad Rizky Kurniadinata",
+    "NIM": "11231044",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhamad Faisal",
+    "NIM": "11231045",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhamad Nico Arifin",
+    "NIM": "11231046",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad 'Aaqil Saputra",
+    "NIM": "11231047",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Abdurrachim",
+    "NIM": "11231048",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Ainun Nasichin",
+    "NIM": "11231049",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Aldri Saputra",
+    "NIM": "11231050",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Arsyad Az Zakir",
+    "NIM": "11231051",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Athif Azzaky",
+    "NIM": "11231052",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Elbra Herlambang",
+    "NIM": "11231053",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Fachrudy Al-Ghifari",
+    "NIM": "11231054",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Fatwa Al Choiri",
+    "NIM": "11231055",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Iqbal Alexandre Saputra",
+    "NIM": "11231056",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Kevin Wardhana",
+    "NIM": "11231057",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Luthfan Thamrin",
+    "NIM": "11231058",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Nazril Ilham",
+    "NIM": "11231059",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rakha Randika",
+    "NIM": "11231060",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rayhan Saputra",
+    "NIM": "11231061",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rivaldi",
+    "NIM": "11231062",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Rozan Rifdah Putra Noer",
+    "NIM": "11231063",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Satriya Hammami P. Nugroho",
+    "NIM": "11231064",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Shadiq Al Fatiy",
+    "NIM": "11231065",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Yunus",
+    "NIM": "11231066",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Muhammad Zaki Afriza",
+    "NIM": "11231067",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Nabilla Nur Aini",
+    "NIM": "11231068",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Naomi Ratna Marisaha Guen",
+    "NIM": "11231069",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Naufal Faza Adhitya",
+    "NIM": "11231070",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Naufal Tiarana Putra",
+    "NIM": "11231071",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Noel Ericson Rapael Sipayung",
+    "NIM": "11231072",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Nurfauzan Gymnastiar",
+    "NIM": "11231073",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Nurhafid Sudarianto",
+    "NIM": "11231074",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Nurul Assyifah",
+    "NIM": "11231075",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Oktiara Azzahra Rahmadina",
+    "NIM": "11231076",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Olivia Dafina",
+    "NIM": "11231077",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Oriana Nadienta Kadarsih",
+    "NIM": "11231078",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Peter Rizky Oktaviano Purwandoko",
+    "NIM": "11231079",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Raditya Yusma Nata",
+    "NIM": "11231080",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rafi Baydar Athaillah",
+    "NIM": "11231081",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rafi Fairuz",
+    "NIM": "11231082",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rafly Taufika Fikri",
+    "NIM": "11231083",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rahmahdaniah Fitri",
+    "NIM": "11231084",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rahmi Syafitri",
+    "NIM": "11231085",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rayhan Marcello Ananda Purnomo",
+    "NIM": "11231086",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Risky Alfienda",
+    "NIM": "11231087",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Riza Luthfie Rusmana",
+    "NIM": "11231088",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Rizky Irswanda Ramadhana",
+    "NIM": "11231089",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Shabrina Alya Aureliya",
+    "NIM": "11231090",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Vivian Marsyanda",
+    "NIM": "11231091",
+    "prodi": "Informatika",
+    "skor": 100
+  },
+  {
+    "nama": "Zakaria Fattawari",
+    "NIM": "11231092",
+    "prodi": "Informatika",
+    "skor": 100
+  }
+]

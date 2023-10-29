@@ -1,0 +1,578 @@
+[
+  {
+    "nama": "Adinda Salsabila",
+    "NIM": "05231001",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Aida Hilsyah Aulya",
+    "NIM": "05231002",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Alya Amelia Putri",
+    "NIM": "05231003",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Amalia Amanda Putri",
+    "NIM": "05231004",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Ananda Salsabila",
+    "NIM": "05231005",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Annisa Nurjihan",
+    "NIM": "05231006",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Aprilia Wulan Sari",
+    "NIM": "05231007",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Ariel Guntur Pamungkas",
+    "NIM": "05231008",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Arif Fadhlur Rohman",
+    "NIM": "05231009",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Arta Dian Fitrah",
+    "NIM": "05231010",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Aryo Setyo Nugroho",
+    "NIM": "05231011",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Azis Andi Nugroho",
+    "NIM": "05231012",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Azizah Nazwa Safira",
+    "NIM": "05231013",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Bagas Arsyafath",
+    "NIM": "05231014",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Catherina San Gabrelia",
+    "NIM": "05231015",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Chelia Rahmadani Syukur",
+    "NIM": "05231016",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Cindy Dessela Rahmatia",
+    "NIM": "05231017",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Dian Adika Basunjaya",
+    "NIM": "05231018",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Eka Putri Dioniftah",
+    "NIM": "05231019",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Elshanda Nur Alifiyani",
+    "NIM": "05231020",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Endrigo Chrystover",
+    "NIM": "05231021",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Fakhirah Sari Devi",
+    "NIM": "05231022",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Febrina Indah Inesti Sihombing",
+    "NIM": "05231023",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Firdaus Abrur Haqqi",
+    "NIM": "05231024",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Fransisca Juniarti",
+    "NIM": "05231025",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Frya Tinau'",
+    "NIM": "05231026",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Gadis Jiemria Amara",
+    "NIM": "05231027",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Gordon Romeo Yudhistira",
+    "NIM": "05231028",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Hana Putri Pertiwi",
+    "NIM": "05231029",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Haya Adlianty Indah Sholati",
+    "NIM": "05231030",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Indira Tiara Hanifa",
+    "NIM": "05231031",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Intan Maharani",
+    "NIM": "05231032",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Jamal Nur Fikri",
+    "NIM": "05231033",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Jessica Meisie Cristiani Purba",
+    "NIM": "05231034",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Jihan Naifah",
+    "NIM": "05231035",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Joshua Tangke Mangalik",
+    "NIM": "05231036",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Julio Firhan Hidayat Gazali",
+    "NIM": "05231037",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Kayla Putri Annaya",
+    "NIM": "05231038",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Khairiyah Maulidia Al Faiza",
+    "NIM": "05231039",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Khairunnisa Afifah",
+    "NIM": "05231040",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Kristia Meysika",
+    "NIM": "05231041",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Lola Nabila",
+    "NIM": "05231042",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Luthfi Hakim Fadhilah",
+    "NIM": "05231043",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Lydya Azra Andini",
+    "NIM": "05231044",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Madea Arni Kombang",
+    "NIM": "05231045",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Mahita Dwiyanti",
+    "NIM": "05231046",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Maisa Faheema Girsang",
+    "NIM": "05231047",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Majesty Heral Torambung",
+    "NIM": "05231048",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Maria Rhevalina More Nggeri",
+    "NIM": "05231049",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Marles Paelongan",
+    "NIM": "05231050",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Martha Pasha Amelia Sinaga",
+    "NIM": "05231051",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Mimi Oktavia Aritonang",
+    "NIM": "05231052",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Dede Arifa Stofani",
+    "NIM": "05231053",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Firdaus Mursalim",
+    "NIM": "05231054",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Ibnu Athaa'illah",
+    "NIM": "05231055",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Najib",
+    "NIM": "05231056",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Rachmansyah",
+    "NIM": "05231057",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Rafi Alvaro Putra C",
+    "NIM": "05231058",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Rizky Febrian",
+    "NIM": "05231059",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Muhammad Vidi Miftaahul Huda",
+    "NIM": "05231060",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nabila Azizah Agustine",
+    "NIM": "05231061",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nabila Saktia Yudinta",
+    "NIM": "05231062",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Ni Nyoman Try Astiti Pradnyandari",
+    "NIM": "05231063",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Ni Putu Amanda Oktavia",
+    "NIM": "05231064",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nindi Antika",
+    "NIM": "05231065",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nur Alfathriani",
+    "NIM": "05231066",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nur Azizah Azsolehah Aulia Baharuddin",
+    "NIM": "05231067",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nur Baniyah",
+    "NIM": "05231068",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nur Rahmadani",
+    "NIM": "05231069",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nurul Azizah",
+    "NIM": "05231070",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Nurun Nazilatus Shofi",
+    "NIM": "05231071",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Putri Amanda Umanailo",
+    "NIM": "05231072",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rafa Audy Khonsa Aqilah",
+    "NIM": "05231073",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Renalita Ridha Shintya",
+    "NIM": "05231074",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rifka Diah Pratiwi",
+    "NIM": "05231075",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rifqah Ardelia Davina Faishal",
+    "NIM": "05231076",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rioarbitri Rajazah Pong Toban",
+    "NIM": "05231077",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rismadani",
+    "NIM": "05231078",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Risti Hestining",
+    "NIM": "05231079",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Riyani",
+    "NIM": "05231080",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rizca Aulia Shinta Dewi",
+    "NIM": "05231081",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Rizka Ayu Ramadhani",
+    "NIM": "05231082",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Roy Francisco Kurniawan Aruan",
+    "NIM": "05231083",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Satrio Andi Wicaksono",
+    "NIM": "05231084",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Shakila Nadira Putri",
+    "NIM": "05231085",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Siti Raudha Afdhaliani",
+    "NIM": "05231086",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Sufiya Rahmi",
+    "NIM": "05231087",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Syukron Abby Nugraha",
+    "NIM": "05231088",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Tiara Chelsea",
+    "NIM": "05231089",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Titiek Nuraziza",
+    "NIM": "05231090",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Tyara Imanuella Tio Saragi",
+    "NIM": "05231091",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Widya Elsa Afsari",
+    "NIM": "05231092",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Yolanda Artika Tari",
+    "NIM": "05231093",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Yudhistira Firmana",
+    "NIM": "05231094",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Yuwandari Adna Fika",
+    "NIM": "05231095",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  },
+  {
+    "nama": "Zahrah Fitriani",
+    "NIM": "05231096",
+    "prodi": "Teknik Kimia",
+    "skor": "100"
+  }
+]
